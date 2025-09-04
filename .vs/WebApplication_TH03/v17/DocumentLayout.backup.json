@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|e:\\ki1-nam3\\l\u1EADp tr\u00ECnh web\\webapplication_th03\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|e:\\ki1-nam3\\l\u1EADp tr\u00ECnh web\\webapplication_th03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|e:\\ki1-nam3\\l\u1EADp tr\u00ECnh web\\webapplication_th03\\viewcomponents\\hotproductsviewcomonent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|solutionrelative:viewcomponents\\hotproductsviewcomonent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|e:\\ki1-nam3\\l\u1EADp tr\u00ECnh web\\webapplication_th03\\webapplication_th03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|solutionrelative:webapplication_th03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|e:\\ki1-nam3\\l\u1EADp tr\u00ECnh web\\webapplication_th03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|e:\\ki1-nam3\\l\u1EADp tr\u00ECnh web\\webapplication_th03\\views\\shared\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|solutionrelative:views\\shared\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|e:\\ki1-nam3\\l\u1EADp tr\u00ECnh web\\webapplication_th03\\views\\shared\\components\\hotproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|solutionrelative:views\\shared\\components\\hotproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|e:\\ki1-nam3\\l\u1EADp tr\u00ECnh web\\webapplication_th03\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|e:\\ki1-nam3\\l\u1EADp tr\u00ECnh web\\webapplication_th03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|e:\\ki1-nam3\\l\u1EADp tr\u00ECnh web\\webapplication_th03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|e:\\ki1-nam3\\l\u1EADp tr\u00ECnh web\\webapplication_th03\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|e:\\ki1-nam3\\l\u1EADp tr\u00ECnh web\\webapplication_th03\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6D7B6D21-61A8-46F4-8714-B6ECE9C7D188}|WebApplication_TH03.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:37:22.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T04:43:01.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "ToolTip": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T04:41:30.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApplication_TH03.csproj",
+              "DocumentMoniker": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\WebApplication_TH03.csproj",
+              "RelativeDocumentMoniker": "WebApplication_TH03.csproj",
+              "ToolTip": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\WebApplication_TH03.csproj",
+              "RelativeToolTip": "WebApplication_TH03.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T04:43:21.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Category.cshtml",
+              "DocumentMoniker": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\Views\\Shared\\_Category.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Category.cshtml",
+              "ToolTip": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\Views\\Shared\\_Category.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Category.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T04:40:37.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:30:32.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotProductsViewComonent.cs",
+              "DocumentMoniker": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\ViewComponents\\HotProductsViewComonent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\HotProductsViewComonent.cs",
+              "ToolTip": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\ViewComponents\\HotProductsViewComonent.cs",
+              "RelativeToolTip": "ViewComponents\\HotProductsViewComonent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:44:41.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T04:39:36.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T04:38:04.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-04T04:36:35.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-04T04:36:05.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "E:\\ki1-nam3\\L\u1EADp Tr\u00ECnh Web\\WebApplication_TH03\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-04T04:33:13.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
